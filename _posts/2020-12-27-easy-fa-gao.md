@@ -1,15 +1,16 @@
 ---
 layout: post
-title: Easy FaGao or Steamed Bread
-subtitle: Similar to Bread, but no oil used
+title: Easy Fa Gao / Steamed Bread Make
+subtitle: Similar to bread, but no oil used or oven needed
 tags: [recipe, bakery]
 ---
 
 [Fa Gao](https://en.wikipedia.org/wiki/Fa_gao) is a traditional Chinese bread which requires steamer to cook. 
 It tastes pretty neat in my opinion, but you can have your own judge after giving it a try.
 
-This recipe is directly adapted from this video on YouTube: [Brown Sugar Fa Gao](https://youtu.be/_q3RqGv9Qvc) in 
-Chinese.
+This recipe is directly adapted from this video on YouTube: [Brown Sugar Fa Gao](https://youtu.be/_q3RqGv9Qvc). 
+You can skip everything down below if you understand Chinese, since they are essentially the same. 
+I made the Fa Gao with this recipe myself so that I can be certain that it is easy to manage.
 
 Ingredients:
 - 200 grams room-temperature water
@@ -20,7 +21,7 @@ Ingredients:
 - some extra room-temperature water
 
 You may also need the following cookwares:
-- a whisk for blending mixtures
+- a whisk or something similar for blending mixtures
 - a relatively large steamer (it might be hard to find in regular grocery stores, try Asian grocery stores)
 - parchment paper
 - a small container to resolve sugar
@@ -41,6 +42,6 @@ You can always place the bowl into warm water to accelerate this process.
 8. When the water in the steamer is boiled, set the timer to 30 mins.
 9. Get the Fa Gao out, and enjoy!
 
-If the word description is not good enough for you, you can always go check out the YouTube video above.
+If the word description is not good enough for you, you can always go to check out the YouTube video mentioned above.
 Although it is in Chinese, you still can get a general idea of what is what.
-Hopeful you can make it without too much trouble! Have fun cooking!
+Hopefully you can make it without too much trouble! Have fun cooking!
