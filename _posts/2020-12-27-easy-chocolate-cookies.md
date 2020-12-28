@@ -8,6 +8,7 @@ tags: [recipe, bakery]
 When you are in the mood of baking some cookies, I guess you probably won't want to make it complicated. 
 Here is a recipe adapted directly from 
 [Laura in the kitchen Epi # 1045](https://www.laurainthekitchen.com/recipes/chocolate-chunk-cake-batter-cookies/). 
+
 You can watch this video first to get the general idea, and then check out my modified version.
 Or if you like, you can follow that video completely, which could give your quite similar results.
 
@@ -44,7 +45,7 @@ It should be really similar.
 The only key component is the butter.
 - You can also include other things like chocolate chunk as mentioned in the original recipe. 
 Maybe including some peanut or red date can be surprisingly good.
-But if you want to include some raw ingredients, please baking it with more time until everything is fully cooked.
+But if you want to include some raw ingredients, please bake it with more time until everything is fully cooked.
 - I also tried doubled everything and it worked as expected. 
 It just took more rounds to bake.
 - As mentioned above, you can alter ingredients as you like. 
