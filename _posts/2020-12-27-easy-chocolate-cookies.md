@@ -52,5 +52,16 @@ It just took more rounds to bake.
 Among all of those, the sea salt can be replaced with cinnamon powder, or even wilder with paprika.
 Just don't go too wild - explore it at your own pace.
 
+Ingredient Volume/Weight Table:
+
+|          | 1-Volume | 1-Weight | 2-Volume | 2-Weight |
+|:--------:|:--------:|:--------:|:--------:|:--------:|
+|  Butter  |  1/4 cup |   56 g   |  1/2 cup |   113 g  |
+| Cake Mix |   1 cup  |   140 g  |   2 cup  |   280 g  |
+|    Egg   |     1    |   50 g   |     2    |   100 g  |
+|   Total  |          |   246 g  |          |   493 g  |
+
+The table above can be helpful when you want to split your batch evenly.
+
 I hope you can find the final resulting cookies delicious. 
 Enjoy cooking!
