@@ -24,6 +24,14 @@ To determine the actual limit of your own WST-8 kit with your cell lines, please
 - Assay: [Dojindo Cell Counting Kit-8](https://www.dojindo.com/products/CK04/)
 - Culture Media: DMEM, with phenol red
 
+**Note**: for the plate reader, according to its manual, the read-out range is 0~4 Abs.
+After 4.0, it will display 6.0.
+Hence we need to manually change it to the 4.0, the saturation point.
+
+In addition, the plate reader can provide accuracy, linearity, & precision when the reading is under 2.5 Abs, and when the reading is within the range 0~2.0 Abs, it has better performance.
+
+As a result, it is better to keep the reading below 2.0.
+
 # Experiment Procedure
 
 1. Seeded the cells on a 96-well plate, where 8 columns were utilized to have 2-fold serial dilution of seeding.
@@ -45,19 +53,19 @@ To determine the actual limit of your own WST-8 kit with your cell lines, please
 
 ## Raw Optical Density (OD)
 
-![row-od](/assets/img/20230805-wst8-limit-and-saturation/raw_od.png){: .mx-auto.d-block :}
+![row-od](/assets/img/20230805-wst8-limit-and-saturation/exp20230804_raw_od.png){: .mx-auto.d-block :}
 
 For the figure on top, we can see the full range of measurements, where the x-axis is the seeding density, and the y-axis is raw OD readings, from the plate reader.
 The limit indicated by the WST-8 protocol is visualized with a vertical dashed line.
 
 As it is illustrated, for all 4 readings (readings on 1, 2, 3, 4 hours), after the WST-8 limit line, the readings were all saturated.
-For 3-hour and 4-hour cases, the measurements were mainly reaching to the plate reader capability, i.e., capped at 6.0.
+For 3-hour and 4-hour cases, the measurements were mainly reaching to the plate reader capability, i.e., capped at 4.0.
 
 If we focus only on the "working range" suggested by the protocol, the the standard curves are more linear. 
 
 ## Raw Optical Density (OD) with Local Outlier Factor (LOF) Outlier Removal
 
-![row-od-with-lof-outlier-removal](/assets/img/20230805-wst8-limit-and-saturation/raw_od_w_lof_outlier_removal.png)
+![row-od-with-lof-outlier-removal](/assets/img/20230805-wst8-limit-and-saturation/exp20230804_raw_od_w_lof_outlier_removal.png)
 
 For each cell seeding density group, although some degrees of coefficient of variance are expected among the 4 replicates, there are some extreme data points can be marked as outliers and can be removed.
 
@@ -68,7 +76,7 @@ After the outliers were removed from the dataset, we can observe the saturation 
 
 ## Linear Regression (LR) on the Background Subtracted OD within the Working Range
 
-![BG-removed-od-with-LR](/assets/img/20230805-wst8-limit-and-saturation/BG_removed_od_w_lr.png)
+![BG-removed-od-with-LR](/assets/img/20230805-wst8-limit-and-saturation/exp20230804_BG_removed_od_w_lr.png)
 
 With the outlier removal, the raw OD values can be further processed with background subtraction, where the DMEM with WST-8 (no cells) wells can be seen as the background.
 
